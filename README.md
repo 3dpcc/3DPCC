@@ -81,7 +81,7 @@ This repository contains a collection of geometry and attribute point cloud comp
 
 [[paper]](https://arxiv.org/abs/2209.08276)
 
-17 Sep 2022
+16 Mar 2023
 
 #### DeepPCC: Learned Lossy Point Cloud Compression
 
