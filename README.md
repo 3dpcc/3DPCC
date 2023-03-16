@@ -6,23 +6,22 @@ This repository contains a collection of geometry and attribute point cloud comp
 
 - ### Geometry
 
-- [PCGCv1: Learned Point Cloud Geometry Compression](####PCGCv1: Learned Point Cloud Geometry Compression)
+- PCGCv1: Learned Point Cloud Geometry Compression
 
-- [PCGCv2: Multiscale Point Cloud Geometry Compression](####PCGCv2: Multiscale Point Cloud Geometry Compression)
+- PCGCv2: Multiscale Point Cloud Geometry Compression
 
-- [PCTPCC: Transformer and Upsampling-Based Point Cloud Compression](####Transfomer and Upsampling-Based Point Cloud Compression)
+- PCTPCC: Transformer and Upsampling-Based Point Cloud Compression
 
-- [PCGFormer: Lossy Point Cloud Geometry Compression via Local Self-Attention](####PCGFormer: Lossy Point Cloud Geometry Compression via Local Self-Attention)
+- PCGFormer: Lossy Point Cloud Geometry Compression via Local Self-Attention
 
-- [SparsePCGC: Sparse Tensor-based Multiscale Representation for Point Cloud Geometry Compression](####SparsePCGC: Sparse Tensor-based Multiscale Representation for Point Cloud Geometry Compression)
+- SparsePCGC: Sparse Tensor-based Multiscale Representation for Point Cloud Geometry Compression
 
 - ### Attribute
 
-- [SparsePCAC: Sparse Tensor-based Point Cloud Attribute Compression](####SparsePCAC: Sparse Tensor-based Point Cloud Attribute Compression)
+- SparsePCAC: Sparse Tensor-based Point Cloud Attribute Compression
+- CARNet: Compression Artifact Reduction for Point Cloud Attribute
 
-- [CARNet: Compression Artifact Reduction for Point Cloud Attribute](####CARNet: Compression Artifact Reduction for Point Cloud Attribute)
-
-- [DeepPCC: Learned Lossy Point Cloud Compression](####DeepPCC: Learned Lossy Point Cloud Compression)
+- DeepPCC: Learned Lossy Point Cloud Compression
 
 ## Geometry
 
