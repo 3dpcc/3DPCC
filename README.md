@@ -1,6 +1,6 @@
 # 3DPCC：Point Cloud Compression
 
-This repository contains a collection of geometry and attribute point cloud compression methods.
+This repository contains a collection of point cloud geometry and attribute compression methods developed by NJU and HZNU.
 
 ## Contents
 
