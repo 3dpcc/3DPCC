@@ -20,8 +20,10 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 - SparsePCAC: Sparse Tensor-based Point Cloud Attribute Compression
 - CARNet: Compression Artifact Reduction for Point Cloud Attribute
+- ScalablePCAC: Scalable Point Cloud Attribute Compression
 
-- DeepPCC: Learned Lossy Point Cloud Compression
+- ### Integrated Solution
+- DeepPCCv1: Learned Lossy Point Cloud Compression
 
 ## Geometry
 
@@ -83,6 +85,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 16 Mar 2023
 
+## Integrated Solution
 #### DeepPCC: Learned Lossy Point Cloud Compression
 
 *Junzhe Zhang, Gexin Liu, Junteng Zhang, Dandan Ding, and Zhan Ma*
