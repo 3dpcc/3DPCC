@@ -79,7 +79,7 @@ This repository contains a collection of geometry and attribute point cloud comp
 
 *Dandan Ding, Junzhe Zhang, Jianqiang Wang, Zhan Ma*
 
-[[paper](https://arxiv.org/abs/2209.08276)]
+[[Paper](https://arxiv.org/abs/2209.08276)]
 
 16 Mar 2023
 
