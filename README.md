@@ -87,4 +87,4 @@ This repository contains a collection of geometry and attribute point cloud comp
 
 *Junzhe Zhang, Gexin Liu, Junteng Zhang, Dandan Ding, and Zhan Ma*
 
-[[Paper](https://github.com/3dpcc/DeepPCC/blob/main/DeepPCC%20Learned%20Lossy%20Point%20Cloud%20Compression.pdf)] [[code]](https://github.com/3dpcc/DeepPCC)
+[[Paper]](https://github.com/3dpcc/DeepPCC/blob/main/DeepPCC%20Learned%20Lossy%20Point%20Cloud%20Compression.pdf) [[code]](https://github.com/3dpcc/DeepPCC)
