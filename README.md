@@ -16,6 +16,8 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 - SparsePCGC: Sparse Tensor-based Multiscale Representation for Point Cloud Geometry Compression
 
+- GRNet: Geometry Restoration for G-PCC Compressed Point Clouds Using Auxiliary Density Signaling
+
 - ### Attribute
 
 - SparsePCAC: Sparse Tensor-based Point Cloud Attribute Compression
