@@ -27,7 +27,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 - ### Integrated Solution
 - DeepPCCv1: Learned Lossy Point Cloud Compression
 - YOGA: Yet Another Geometry-based Point Cloud Compressor
-
+- GPCC++: Enhanced Geometry-based Point Cloud Compression
 ## Geometry
 
 #### PCGCv1: Learned Point Cloud Geometry Compression
@@ -97,4 +97,13 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 #### YOGA: Yet Another Geometry-based Point Cloud Compressor
 
+*Junteng Zhang, , Tong Chen, Dandan Ding, and Zhan Ma*
+
 [[Paper](https://3dpcc.github.io/publication/YOGA/)]
+
+
+#### GPCC++: Enhanced Geometry-based Point Cloud Compression
+
+*Junzhe Zhang, , Tong Chen, Dandan Ding, and Zhan Ma*
+
+[[Paper](https://3dpcc.github.io/publication/GPCCplus/)]
