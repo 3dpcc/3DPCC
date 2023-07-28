@@ -99,11 +99,11 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 *Junteng Zhang, , Tong Chen, Dandan Ding, and Zhan Ma*
 
-[[Paper](https://3dpcc.github.io/publication/YOGA/)]
+[[Paper](https://3dpcc.github.io/publication/YOGA/)][[code](https://github.com/3dpcc/YOGA)]
 
 
 #### GPCC++: Enhanced Geometry-based Point Cloud Compression
 
 *Junzhe Zhang, , Tong Chen, Dandan Ding, and Zhan Ma*
 
-[[Paper](https://3dpcc.github.io/publication/GPCCplus/)]
+[[Paper](https://3dpcc.github.io/publication/GPCCplusplus/)][[code](https://github.com/3dpcc/GPCCplus)]
