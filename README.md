@@ -6,21 +6,21 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 - ### Geometry
 
-- [**TCSVT**]PCGCv1: Learned Point Cloud Geometry Compression
+- **[TCSVT]** PCGCv1: Learned Point Cloud Geometry Compression
 
-- [**DCC**]PCGCv2: Multiscale Point Cloud Geometry Compression
+- **[DCC]** PCGCv2: Multiscale Point Cloud Geometry Compression
 
-- [**ACM MM Workshop**]PCTPCC: Transformer and Upsampling-Based Point Cloud Compression
+- **[ACM MM Workshop]** PCTPCC: Transformer and Upsampling-Based Point Cloud Compression
 
-- [**VCIP**]PCGFormer: Lossy Point Cloud Geometry Compression via Local Self-Attention
+- **[VCIP]** PCGFormer: Lossy Point Cloud Geometry Compression via Local Self-Attention
 
-- [**TPAMI**]SparsePCGC: Sparse Tensor-based Multiscale Representation for Point Cloud Geometry Compression
+- **[TPAMI]** SparsePCGC: Sparse Tensor-based Multiscale Representation for Point Cloud Geometry Compression
 
 - GRNet: Geometry Restoration for G-PCC Compressed Point Clouds Using Auxiliary Density Signaling
 
 - ### Attribute
 
-- [**MIPR**]SparsePCAC: Sparse Tensor-based Point Cloud Attribute Compression
+- **[MIPR]** SparsePCAC: Sparse Tensor-based Point Cloud Attribute Compression
   
 - ARNet: Compression Artifact Reduction for Point Cloud Attribute
   
@@ -29,9 +29,9 @@ This repository contains a collection of point cloud geometry and attribute comp
 - ### Integrated Solution
 - DeepPCCv1: Learned Lossy Point Cloud Compression
   
-- [**ACM MM**]YOGA: Yet Another Geometry-based Point Cloud Compressor
+- **[ACM MM]** YOGA: Yet Another Geometry-based Point Cloud Compressor
   
-- [**ACM MM**]GPCC++: Enhanced Geometry-based Point Cloud Compression
+- **[ACM MM]** GPCC++: Enhanced Geometry-based Point Cloud Compression
   
 ## Geometry
 
