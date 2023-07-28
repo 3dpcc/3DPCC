@@ -6,28 +6,33 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 - ### Geometry
 
-- PCGCv1: Learned Point Cloud Geometry Compression
+- [**TCSVT**]PCGCv1: Learned Point Cloud Geometry Compression
 
-- PCGCv2: Multiscale Point Cloud Geometry Compression
+- [**DCC**]PCGCv2: Multiscale Point Cloud Geometry Compression
 
-- PCTPCC: Transformer and Upsampling-Based Point Cloud Compression
+- [**ACM MM Workshop**]PCTPCC: Transformer and Upsampling-Based Point Cloud Compression
 
-- PCGFormer: Lossy Point Cloud Geometry Compression via Local Self-Attention
+- [**VCIP**]PCGFormer: Lossy Point Cloud Geometry Compression via Local Self-Attention
 
-- SparsePCGC: Sparse Tensor-based Multiscale Representation for Point Cloud Geometry Compression
+- [**TPAMI**]SparsePCGC: Sparse Tensor-based Multiscale Representation for Point Cloud Geometry Compression
 
 - GRNet: Geometry Restoration for G-PCC Compressed Point Clouds Using Auxiliary Density Signaling
 
 - ### Attribute
 
-- SparsePCAC: Sparse Tensor-based Point Cloud Attribute Compression
-- CARNet: Compression Artifact Reduction for Point Cloud Attribute
+- [**MIPR**]SparsePCAC: Sparse Tensor-based Point Cloud Attribute Compression
+  
+- ARNet: Compression Artifact Reduction for Point Cloud Attribute
+  
 - ScalablePCAC: Scalable Point Cloud Attribute Compression
 
 - ### Integrated Solution
 - DeepPCCv1: Learned Lossy Point Cloud Compression
-- YOGA: Yet Another Geometry-based Point Cloud Compressor
-- GPCC++: Enhanced Geometry-based Point Cloud Compression
+  
+- [**ACM MM**]YOGA: Yet Another Geometry-based Point Cloud Compressor
+  
+- [**ACM MM**]GPCC++: Enhanced Geometry-based Point Cloud Compression
+  
 ## Geometry
 
 #### PCGCv1: Learned Point Cloud Geometry Compression
@@ -80,7 +85,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 08 Sep 2022
 
-#### CARNet: Compression Artifact Reduction for Point Cloud Attribute
+#### ARNet: Compression Artifact Reduction for Point Cloud Attribute
 
 *Dandan Ding, Junzhe Zhang, Jianqiang Wang, Zhan Ma*
 
