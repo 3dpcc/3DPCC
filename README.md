@@ -29,9 +29,11 @@ This repository contains a collection of point cloud geometry and attribute comp
 - ### Integrated Solution
 - DeepPCCv1: Learned Lossy Point Cloud Compression
   
-- **[ACM MM]** YOGA: Yet Another Geometry-based Point Cloud Compressor
+- **[ACM MM]** YOGAv1: Yet Another Geometry-based Point Cloud Compressor
   
 - **[ACM MM]** GPCC++: Enhanced Geometry-based Point Cloud Compression
+
+- YOGAv2: A Layered Point Cloud Compressor
   
 ## Geometry
 
