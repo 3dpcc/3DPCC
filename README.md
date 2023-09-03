@@ -27,7 +27,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 - ScalablePCAC: Scalable Point Cloud Attribute Compression
 
 - ### Integrated Solution
-- DeepPCCv1: Learned Lossy Point Cloud Compression
+- DeepPCC: Learned Lossy Point Cloud Compression
   
 - **[ACM MM]** YOGAv1: Yet Another Geometry-based Point Cloud Compressor
   
