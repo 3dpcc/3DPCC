@@ -22,7 +22,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 - **[MIPR]** SparsePCAC: Sparse Tensor-based Point Cloud Attribute Compression
   
-- ARNet: Compression Artifact Reduction for Point Cloud Attribute
+- **[CVM]** ARNet: Compression Artifact Reduction for Point Cloud Attribute
   
 - ScalablePCAC: Scalable Point Cloud Attribute Compression
 
