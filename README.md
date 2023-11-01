@@ -89,7 +89,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 #### ARNet: Compression Artifact Reduction for Point Cloud Attribute
 
-*Dandan Ding, Junzhe Zhang, Jianqiang Wang, Zhan Ma*
+*Junzhe Zhang, Junteng Zhang, Dandan Ding, Zhan Ma*
 
 [[Paper](https://arxiv.org/abs/2209.08276)]
 
