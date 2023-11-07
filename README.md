@@ -95,6 +95,12 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 16 Mar 2023
 
+#### ScalablePCAC: Scalable Point Cloud Attribute Compression
+
+*Junteng Zhang, Jianqiang Wang, Dandan Ding, Zhan Ma*
+
+3 Nov 2023
+
 ## Integrated Solution
 #### DeepPCC: Learned Lossy Point Cloud Compression
 
