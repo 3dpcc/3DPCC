@@ -99,7 +99,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 *Junteng Zhang, Jianqiang Wang, Dandan Ding, Zhan Ma*
 
-3 Nov 2023
+03 Nov 2023
 
 ## Integrated Solution
 #### DeepPCC: Learned Lossy Point Cloud Compression
