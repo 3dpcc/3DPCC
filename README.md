@@ -24,7 +24,7 @@ This repository contains a collection of point cloud geometry and attribute comp
   
 - **[CVM]** ARNet: Compression Artifact Reduction for Point Cloud Attribute
   
-- ScalablePCAC: Scalable Point Cloud Attribute Compression
+- **[TMM]** ScalablePCAC: Scalable Point Cloud Attribute Compression
 
 - ### Integrated Solution
 - DeepPCC: Learned Lossy Point Cloud Compression
