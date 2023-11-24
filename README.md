@@ -16,7 +16,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 - **[TPAMI]** SparsePCGC: Sparse Tensor-based Multiscale Representation for Point Cloud Geometry Compression
 
-- GRNet: Geometry Restoration for G-PCC Compressed Point Clouds Using Auxiliary Density Signaling
+- **[TVCG]** GRNet: Geometry Restoration for G-PCC Compressed Point Clouds Using Auxiliary Density Signaling
 
 - ### Attribute
 
