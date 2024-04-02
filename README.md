@@ -65,7 +65,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 *Gexin Liu, Jianqiang Wang, Dandan Ding, Zhan Ma*
 
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10008892)]
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10008892)] [[code](https://github.com/3dpcc/PCGFormer)]
 
 13 Dec 2022
 
