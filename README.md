@@ -18,6 +18,8 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 - **[TVCG]** GRNet: Geometry Restoration for G-PCC Compressed Point Clouds Using Auxiliary Density Signaling
 
+- **[ICASSSP]** NeRI: Implicit Neural Representation of LiDAR Point Cloud Using Range Image Sequence
+
 - **[IJCAI]** Encoding Auxiliary Information to Restore Compressed Point Cloud Geometry
 
 - ### Attribute
@@ -96,6 +98,14 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 27 Nov 2023
 
+#### NeRI: Implicit Neural Representation of LiDAR Point Cloud Using Range Image Sequence
+
+*Ruixiang Xue, Jiaxin Li, Tong Chen, Dandan Ding, Xun Cao and Zhan Ma*
+
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10446596)] [[code](https://github.com/RuixiangXue/NeRI)]
+
+14 Apr 2024
+
 #### Encoding Auxiliary Information to Restore Compressed Point Cloud Geometry
 
 *Gexin Liu, Jiahao Zhu, Dandan Ding and Zhan Ma*
@@ -156,17 +166,17 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 *Junteng Zhang, Tong Chen, Dandan Ding, and Zhan Ma*
 
-[[Paper](https://3dpcc.github.io/publication/YOGAv1/)][[website](https://3dpcc.github.io/publication/YOGAv1/)]
+[[Paper](https://3dpcc.github.io/publication/YOGAv1/)] [[website](https://3dpcc.github.io/publication/YOGAv1/)]
 
 
 #### GPCC++: Enhanced Geometry-based Point Cloud Compression
 
 *Junzhe Zhang, Tong Chen, Dandan Ding, and Zhan Ma*
 
-[[Paper](https://3dpcc.github.io/publication/GPCCplusplus/)][[website](https://3dpcc.github.io/publication/GPCCplusplus/)]
+[[Paper](https://3dpcc.github.io/publication/GPCCplusplus/)] [[website](https://3dpcc.github.io/publication/GPCCplusplus/)]
 
 #### YOGAv2: A Layered Point Cloud Compressor
 
 *Junteng Zhang, Hao Chen, Junzhe Zhang, Jiangbo Lu, Dandan Ding, and Zhan Ma*
 
-[[Paper](https://3dpcc.github.io/publication/YOGAv2/)][[website](https://3dpcc.github.io/publication/YOGAv2/)]
+[[Paper](https://3dpcc.github.io/publication/YOGAv2/)] [[website](https://3dpcc.github.io/publication/YOGAv2/)]
