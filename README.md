@@ -181,6 +181,6 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 [[Paper](https://3dpcc.github.io/publication/YOGAv2/)] [[website](https://3dpcc.github.io/publication/YOGAv2/)]
 
-#### A Unified Point Cloud Compressor Using Universal Multiscale Conditional Coding
+#### Unicorn: A Unified Point Cloud Compressor Using Universal Multiscale Conditional Coding
 
 [[website](https://lijacci.github.io/Unicorn/)]
