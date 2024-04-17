@@ -10,7 +10,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 - **[DCC]** PCGCv2: Multiscale Point Cloud Geometry Compression
 
-- **[ACM MM Workshop]** PCTPCC: Transformer and Upsampling-Based Point Cloud Compression
+- **[ACM MM Workshop]** Transformer and Upsampling-Based Point Cloud Compression
 
 - **[VCIP]** PCGFormer: Lossy Point Cloud Geometry Compression via Local Self-Attention
 
@@ -66,7 +66,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 23 Mar 2021
 
-#### PCTPCC: Transfomer and Upsampling-Based Point Cloud Compression
+#### Transfomer and Upsampling-Based Point Cloud Compression
 
 *Junteng Zhang, Gexin Liu, Dandan Ding, Zhan Ma*
 
