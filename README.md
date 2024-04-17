@@ -94,7 +94,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 *Gexin Liu, Ruixiang Xue, Jiaxin Li, Dandan Ding and Zhan Ma*
 
-[[Paper](https://ieeexplore.ieee.org/document/10328911)]
+[[Paper](https://ieeexplore.ieee.org/document/10328911)] [[code](https://github.com/3dpcc/GRNet)]
 
 27 Nov 2023
 
