@@ -25,6 +25,8 @@ This repository contains a collection of point cloud geometry and attribute comp
 - **[MIPR]** SparsePCAC: Sparse Tensor-based Point Cloud Attribute Compression
   
 - **[CVM]** ARNet: Compression Artifact Reduction for Point Cloud Attribute
+
+- **[DCC]** Lossless Point Cloud Attribute Compression Using Cross-scale, Cross-group, and Cross-color Prediction
   
 - **[TMM]** ScalablePCAC: Scalable Point Cloud Attribute Compression
 
@@ -62,7 +64,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 23 Mar 2021
 
-#### Transfomer and Upsampling-Based Point Cloud Compression
+#### PCTPCC: Transfomer and Upsampling-Based Point Cloud Compression
 
 *Junteng Zhang, Gexin Liu, Dandan Ding, Zhan Ma*
 
@@ -117,6 +119,14 @@ This repository contains a collection of point cloud geometry and attribute comp
 [[Paper](https://arxiv.org/abs/2209.08276)] [[code](https://github.com/3dpcc/ARNet)]
 
 16 Mar 2023
+
+#### Lossless Point Cloud Attribute Compression Using Cross-scale, Cross-group, and Cross-color Prediction
+
+*Jianqiang Wang, Dandan Ding and Zhan Ma*
+
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10125514)]
+
+21 Mar 2023
 
 #### ScalablePCAC: Scalable Point Cloud Attribute Compression
 
