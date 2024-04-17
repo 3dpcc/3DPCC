@@ -31,13 +31,18 @@ This repository contains a collection of point cloud geometry and attribute comp
 - **[TVCG]** Learning to Restore Compressed Point Cloud Attribute: A Fully Data-Driven Approach and A Rules-Unrolling-Based Optimization
 
 - ### Integrated Solution
-- DeepPCC: Learned Lossy Point Cloud Compression
+
+- **[Under Review]** DeepPCC: Learned Lossy Point Cloud Compression
   
 - **[ACM MM]** YOGAv1: Yet Another Geometry-based Point Cloud Compressor
   
 - **[ACM MM]** GPCC++: Enhanced Geometry-based Point Cloud Compression
 
-- YOGAv2: A Layered Point Cloud Compressor
+- **[Under Review]** YOGAv2: A Layered Point Cloud Compressor
+
+- **[Under Review]** A Unified Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part I: Geometry
+
+- **[Under Review]** A Unified Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part II: Attribute
   
 ## Geometry
 
@@ -81,6 +86,14 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 01 Dec 2022
 
+#### GRNet: Geometry Restoration for G-PCC Compressed Point Clouds Using Auxiliary Density Signaling
+
+*Gexin Liu, Ruixiang Xue, Jiaxin Li, Dandan Ding and Zhan Ma*
+
+[[paer](https://ieeexplore.ieee.org/document/10328911)]
+
+27 Nov 2023
+
 #### Encoding Auxiliary Information to Restore Compressed Point Cloud Geometry
 
 *Gexin Liu, Jiahao Zhu, Dandan Ding and Zhan Ma*
@@ -122,27 +135,28 @@ This repository contains a collection of point cloud geometry and attribute comp
 12 Mar 2024
 
 ## Integrated Solution
+
 #### DeepPCC: Learned Lossy Point Cloud Compression
 
 *Junzhe Zhang, Gexin Liu, Junteng Zhang, Dandan Ding, and Zhan Ma*
 
-[[Paper](https://github.com/3dpcc/DeepPCC/blob/main/DeepPCC%20Learned%20Lossy%20Point%20Cloud%20Compression.pdf)] [[code](https://github.com/3dpcc/DeepPCC)]
+[[Paper](https://github.com/3dpcc/DeepPCC/blob/main/DeepPCC%20Learned%20Lossy%20Point%20Cloud%20Compression.pdf)]
 
 #### YOGAv1: Yet Another Geometry-based Point Cloud Compressor
 
 *Junteng Zhang, Tong Chen, Dandan Ding, and Zhan Ma*
 
-[[Paper](https://3dpcc.github.io/publication/YOGAv1/)][[code](https://github.com/3dpcc/YOGAv1)][[website](https://3dpcc.github.io/publication/YOGAv1/)]
+[[Paper](https://3dpcc.github.io/publication/YOGAv1/)][[website](https://3dpcc.github.io/publication/YOGAv1/)]
 
 
 #### GPCC++: Enhanced Geometry-based Point Cloud Compression
 
 *Junzhe Zhang, Tong Chen, Dandan Ding, and Zhan Ma*
 
-[[Paper](https://3dpcc.github.io/publication/GPCCplusplus/)][[code](https://github.com/3dpcc/GPCCplus)][[website](https://3dpcc.github.io/publication/GPCCplusplus/)]
+[[Paper](https://3dpcc.github.io/publication/GPCCplusplus/)][[website](https://3dpcc.github.io/publication/GPCCplusplus/)]
 
 #### YOGAv2: A Layered Point Cloud Compressor
 
 *Junteng Zhang, Hao Chen, Junzhe Zhang, Jiangbo Lu, Dandan Ding, and Zhan Ma*
 
-[[Paper](https://3dpcc.github.io/publication/YOGAv2/)][[code](https://github.com/3dpcc/YOGAv2)][[website](https://3dpcc.github.io/publication/YOGAv2/)]
+[[Paper](https://3dpcc.github.io/publication/YOGAv2/)][[website](https://3dpcc.github.io/publication/YOGAv2/)]
