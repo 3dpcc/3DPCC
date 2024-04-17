@@ -90,7 +90,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 *Gexin Liu, Ruixiang Xue, Jiaxin Li, Dandan Ding and Zhan Ma*
 
-[[paer](https://ieeexplore.ieee.org/document/10328911)]
+[[Paper](https://ieeexplore.ieee.org/document/10328911)]
 
 27 Nov 2023
 
