@@ -101,7 +101,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 *Junzhe Zhang, Junteng Zhang, Dandan Ding, Zhan Ma*
 
-[[Paper](https://arxiv.org/abs/2209.08276)] [[code]](https://github.com/3dpcc/ARNet)
+[[Paper](https://arxiv.org/abs/2209.08276)] [[code](https://github.com/3dpcc/ARNet)]
 
 16 Mar 2023
 
@@ -109,7 +109,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 *Junteng Zhang, Jianqiang Wang, Dandan Ding, Zhan Ma*
 
-[[Paper]](https://ieeexplore.ieee.org/document/10313579)
+[[Paper](https://ieeexplore.ieee.org/document/10313579)]
 
 03 Nov 2023
 
@@ -117,7 +117,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 *Junteng Zhang, Junzhe Zhang, Dandan Ding and Zhan Ma*
 
-[[Paper]](https://ieeexplore.ieee.org/document/10470357)
+[[Paper](https://ieeexplore.ieee.org/document/10470357)]
 
 12 Mar 2024
 
