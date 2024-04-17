@@ -18,6 +18,8 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 - **[TVCG]** GRNet: Geometry Restoration for G-PCC Compressed Point Clouds Using Auxiliary Density Signaling
 
+- **[IJCAI]** Encoding Auxiliary Information to Restore Compressed Point Cloud Geometry
+
 - ### Attribute
 
 - **[MIPR]** SparsePCAC: Sparse Tensor-based Point Cloud Attribute Compression
@@ -25,6 +27,8 @@ This repository contains a collection of point cloud geometry and attribute comp
 - **[CVM]** ARNet: Compression Artifact Reduction for Point Cloud Attribute
   
 - **[TMM]** ScalablePCAC: Scalable Point Cloud Attribute Compression
+
+- **[TVCG]** Learning to Restore Compressed Point Cloud Attribute: A Fully Data-Driven Approach and A Rules-Unrolling-Based Optimization
 
 - ### Integrated Solution
 - DeepPCC: Learned Lossy Point Cloud Compression
@@ -77,6 +81,12 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 01 Dec 2022
 
+#### Encoding Auxiliary Information to Restore Compressed Point Cloud Geometry
+
+*Gexin Liu, Jiahao Zhu, Dandan Ding and Zhan Ma*
+
+17 Apr 2024
+
 ### Attribute
 
 #### SparsePCAC: Sparse Tensor-based Point Cloud Attribute Compression
@@ -91,7 +101,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 *Junzhe Zhang, Junteng Zhang, Dandan Ding, Zhan Ma*
 
-[[Paper](https://arxiv.org/abs/2209.08276)]
+[[Paper](https://arxiv.org/abs/2209.08276)] [[code]](https://github.com/3dpcc/ARNet)
 
 16 Mar 2023
 
@@ -99,7 +109,17 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 *Junteng Zhang, Jianqiang Wang, Dandan Ding, Zhan Ma*
 
+[[Paper]](https://ieeexplore.ieee.org/document/10313579)
+
 03 Nov 2023
+
+#### Learning to Restore Compressed Point Cloud Attribute: A Fully Data-Driven Approach and A Rules-Unrolling-Based Optimization
+
+*Junteng Zhang, Junzhe Zhang, Dandan Ding and Zhan Ma*
+
+[[Paper]](https://ieeexplore.ieee.org/document/10470357)
+
+12 Mar 2024
 
 ## Integrated Solution
 #### DeepPCC: Learned Lossy Point Cloud Compression
