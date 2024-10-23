@@ -2,6 +2,10 @@
 
 This repository contains a collection of point cloud geometry and attribute compression methods developed by NJU and HZNU.
 
+## News
+
+- 2024.09.12 Unicorn: A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding were accpeted by TPAMI. (https://ieeexplore.ieee.org/document/10682571 and https://ieeexplore.ieee.org/document/10682566)
+
 ## Contents
 
 - ### Geometry
@@ -36,7 +40,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 - ### Integrated Solution
 
-- **[Under Review]** DeepPCC: Learned Lossy Point Cloud Compression
+- **[TETCI]** DeepPCC: Learned Lossy Point Cloud Compression
   
 - **[ACM MM]** YOGAv1: Yet Another Geometry-based Point Cloud Compressor
   
@@ -44,9 +48,9 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 - **[Under Review]** YOGAv2: A Layered Point Cloud Compressor
 
-- **[Under Review]** A Unified Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part I: Geometry
+- **[TPAMI]** A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part I: Geometry
 
-- **[Under Review]** A Unified Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part II: Attribute
+- **[TPAMI]** A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part II: Attribute
   
 ## Geometry
 
@@ -160,7 +164,9 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 *Junzhe Zhang, Gexin Liu, Junteng Zhang, Dandan Ding, and Zhan Ma*
 
-[[Paper](https://github.com/3dpcc/DeepPCC/blob/main/DeepPCC%20Learned%20Lossy%20Point%20Cloud%20Compression.pdf)]
+[[Paper](https://ieeexplore.ieee.org/document/10714474)] [[code](https://github.com/3dpcc/DeepPCC)]
+
+11 Oct 2024
 
 #### YOGAv1: Yet Another Geometry-based Point Cloud Compressor
 
@@ -181,6 +187,10 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 [[Paper](https://3dpcc.github.io/publication/YOGAv2/)] [[website](https://3dpcc.github.io/publication/YOGAv2/)]
 
-#### Unicorn: A Unified Point Cloud Compressor Using Universal Multiscale Conditional Coding
+#### Unicorn: A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding
 
-[[website](https://lijacci.github.io/Unicorn/)]
+*Jianqiang Wang, Ruixiang Xue, Jiaxin Li, Dandan Ding, Lin Yi, Zhan Ma*
+
+[[Paper Ⅰ](https://ieeexplore.ieee.org/document/10682571)] [[Paper Ⅱ](https://ieeexplore.ieee.org/document/10682566)] [[code](https://github.com/NJUVISION/Unicorn)] [[website](https://njuvision.github.io/Unicorn/)]
+
+12 Sep 2024
