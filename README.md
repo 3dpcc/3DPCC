@@ -28,6 +28,8 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 - **[IJCAI]** Encoding Auxiliary Information to Restore Compressed Point Cloud Geometry
 
+- **[CVPR]** RENO: Real-time Neural Compression for 3D LiDAR Point Clouds
+
 - ### Attribute
 
 - **[MIPR]** SparsePCAC: Sparse Tensor-based Point Cloud Attribute Compression
@@ -39,6 +41,8 @@ This repository contains a collection of point cloud geometry and attribute comp
 - **[TMM]** ScalablePCAC: Scalable Point Cloud Attribute Compression
 
 - **[TVCG]** Learning to Restore Compressed Point Cloud Attribute: A Fully Data-Driven Approach and A Rules-Unrolling-Based Optimization
+
+- **[ICML]** Efficient LiDAR Reflectance Compression via Scanning Serialization
 
 - ### Integrated Solution
 
