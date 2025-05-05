@@ -128,7 +128,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 [[paper](https://arxiv.org/abs/2503.12382)] [[code](https://github.com/NJUVISION/RENO)] 
 
-01 May 2025
+12 Feb 2025
 
 ### Attribute
 
