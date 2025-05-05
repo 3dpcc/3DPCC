@@ -4,7 +4,9 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 ## News
 
-- 2024.09.12 Unicorn: A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding were accpeted by TPAMI. (https://ieeexplore.ieee.org/document/10682571 and https://ieeexplore.ieee.org/document/10682566)
+- 2025.05.01 "Efficient LiDAR Reflectance Compression via Scanning Serialization," accepeted by ICML.
+- 2025.03.16 "RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds," accpeted by CVPR.
+- 2024.09.12 "Unicorn: A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding", accepted by TPAMI. (https://ieeexplore.ieee.org/document/10682571 and https://ieeexplore.ieee.org/document/10682566)
 
 ## Contents
 
