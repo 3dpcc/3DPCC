@@ -122,6 +122,14 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 17 Apr 2024
 
+#### RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds
+
+*Kang You, Tong Chen, Dandan Ding, M. Salman Asif, Zhan Ma*
+
+[[paper](https://arxiv.org/abs/2503.12382)] [[code](https://github.com/NJUVISION/RENO)] 
+
+01 May 2025
+
 ### Attribute
 
 #### SparsePCAC: Sparse Tensor-based Point Cloud Attribute Compression
@@ -163,6 +171,14 @@ This repository contains a collection of point cloud geometry and attribute comp
 [[Paper](https://ieeexplore.ieee.org/document/10470357)]
 
 12 Mar 2024
+
+#### Efficient LiDAR Reflectance Compression via Scanning Serialization
+
+*Jiahao Zhu, Kang You, Dandan Ding, and Zhan Ma*
+
+[[code](https://github.com/3dpcc/SerLiC)] [[website](https://3dpcc.github.io/publication/SerLiC)]
+
+01 May 2025
 
 ## Integrated Solution
 
