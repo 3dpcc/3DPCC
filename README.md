@@ -24,7 +24,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 - **[TVCG]** GRNet: Geometry Restoration for G-PCC Compressed Point Clouds Using Auxiliary Density Signaling
 
-- **[ICASSSP]** NeRI: Implicit Neural Representation of LiDAR Point Cloud Using Range Image Sequence
+- **[ICASSP]** NeRI: Implicit Neural Representation of LiDAR Point Cloud Using Range Image Sequence
 
 - **[IJCAI]** Encoding Auxiliary Information to Restore Compressed Point Cloud Geometry
 
