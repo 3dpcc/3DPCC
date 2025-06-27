@@ -3,10 +3,10 @@
 This repository contains a collection of point cloud geometry and attribute compression methods developed by NJU and HZNU.
 
 ## News
-- 2025.06.23 "Revisit Point Cloud Quality Assessment: Current Advances and a Multiscale-Inspired Approach", accepted by TVCG. (https://ieeexplore.ieee.org/document/11048499)
-- 2025.05.01 "Efficient LiDAR Reflectance Compression via Scanning Serialization", accepted by ICML.
-- 2025.03.16 "RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds", accepted by CVPR.
-- 2024.09.12 "Unicorn: A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding", accepted by TPAMI. (https://ieeexplore.ieee.org/document/10682571 and https://ieeexplore.ieee.org/document/10682566)
+- 2025.06.23 "Revisit Point Cloud Quality Assessment: Current Advances and a Multiscale-Inspired Approach," accepted by TVCG. (https://ieeexplore.ieee.org/document/11048499)
+- 2025.05.01 "Efficient LiDAR Reflectance Compression via Scanning Serialization," accepted by ICML.
+- 2025.03.16 "RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds," accepted by CVPR.
+- 2024.09.12 "Unicorn: A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding," accepted by TPAMI. (https://ieeexplore.ieee.org/document/10682571 and https://ieeexplore.ieee.org/document/10682566)
 
 ## Contents
 
@@ -57,6 +57,10 @@ This repository contains a collection of point cloud geometry and attribute comp
 - **[TPAMI]** A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part I: Geometry
 
 - **[TPAMI]** A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part II: Attribute
+
+- ### Quality Assessment
+- 
+- **[TVCG]** Revisit Point Cloud Quality Assessment: Current Advances and a Multiscale-Inspired Approach
   
 ## Geometry
 
@@ -219,3 +223,14 @@ This repository contains a collection of point cloud geometry and attribute comp
 [[Paper Ⅰ](https://ieeexplore.ieee.org/document/10682571)] [[Paper Ⅱ](https://ieeexplore.ieee.org/document/10682566)] [[code](https://github.com/NJUVISION/Unicorn)] [[website](https://njuvision.github.io/Unicorn/)]
 
 12 Sep 2024
+
+## Quality Assessment
+
+#### Revisit Point Cloud Quality Assessment: Current Advances and a Multiscale-Inspired Approach
+
+*Junzhe Zhang, Tong Chen, Dandan Ding, and Zhan Ma*
+
+[[Paper](https://ieeexplore.ieee.org/document/11048499)] [[code](https://github.com/3dpcc/PQI)] [[website](https://3dpcc.github.io/publication/PQI/)]
+
+23 Jun 2025
+
