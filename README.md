@@ -59,7 +59,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 - **[TPAMI]** A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part II: Attribute
 
 - ### Quality Assessment
-- 
+
 - **[TVCG]** Revisit Point Cloud Quality Assessment: Current Advances and a Multiscale-Inspired Approach
   
 ## Geometry
