@@ -3,9 +3,9 @@
 This repository contains a collection of point cloud geometry and attribute compression methods developed by NJU and HZNU.
 
 ## News
-
-- 2025.05.01 "Efficient LiDAR Reflectance Compression via Scanning Serialization," accepeted by ICML.
-- 2025.03.16 "RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds," accpeted by CVPR.
+- 2025.06.23 "Revisit Point Cloud Quality Assessment: Current Advances and a Multiscale-Inspired Approach", accepted by TVCG. (https://ieeexplore.ieee.org/document/11048499)
+- 2025.05.01 "Efficient LiDAR Reflectance Compression via Scanning Serialization", accepted by ICML.
+- 2025.03.16 "RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds", accepted by CVPR.
 - 2024.09.12 "Unicorn: A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding", accepted by TPAMI. (https://ieeexplore.ieee.org/document/10682571 and https://ieeexplore.ieee.org/document/10682566)
 
 ## Contents
