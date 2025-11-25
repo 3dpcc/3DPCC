@@ -234,7 +234,7 @@ GeoQE: Enhancing Quality of Experience in Point Cloud Streaming
 
 *Junteng Zhang, Tong Chen, Dandan Ding, and Zhan Ma*
 
-[[Paper([https://box.nju.edu.cn/f/b61b954d4ca34c85969f/])]]  [[Code]([https://dl.acm.org/doi/abs/10.1145/3581783.3613827](https://github.com/3dpcc/Yak))]
+[[Paper]([https://box.nju.edu.cn/f/b61b954d4ca34c85969f/])]  [[Code]([https://dl.acm.org/doi/abs/10.1145/3581783.3613827](https://github.com/3dpcc/Yak))]
 
 21 Nov 2025
 
@@ -247,6 +247,7 @@ GeoQE: Enhancing Quality of Experience in Point Cloud Streaming
 [[Paper](https://ieeexplore.ieee.org/document/11048499)] [[code](https://github.com/3dpcc/PQI)] [[website](https://3dpcc.github.io/publication/PQI/)]
 
 23 Jun 2025
+
 
 
 
