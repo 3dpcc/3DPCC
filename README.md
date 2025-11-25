@@ -3,6 +3,7 @@
 This repository contains a collection of point cloud geometry and attribute compression methods developed by NJU and HZNU.
 
 ## News
+- 2025.11.21 "Neural Compression System for Point Cloud Video Streaming," accepted by TIP.
 - 2025.06.23 "Revisit Point Cloud Quality Assessment: Current Advances and a Multiscale-Inspired Approach," accepted by TVCG. (https://ieeexplore.ieee.org/document/11048499)
 - 2025.05.01 "Efficient LiDAR Reflectance Compression via Scanning Serialization," accepted by ICML.
 - 2025.03.16 "RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds," accepted by CVPR.
@@ -48,15 +49,15 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 - **[TETCI]** DeepPCC: Learned Lossy Point Cloud Compression
   
-- **[ACM MM]** YOGAv1: Yet Another Geometry-based Point Cloud Compressor
+- **[ACM MM]** YOGA: Yet Another Geometry-based Point Cloud Compressor
   
 - **[ACM MM]** GPCC++: Enhanced Geometry-based Point Cloud Compression
-
-- **[Under Review]** YOGAv2: A Layered Point Cloud Compressor
 
 - **[TPAMI]** A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part I: Geometry
 
 - **[TPAMI]** A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part II: Attribute
+
+- **[TIP]** Neural Compression System for Point Cloud Video Streaming
 
 - ### Quality Assessment
 
@@ -194,7 +195,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 11 Oct 2024
 
-#### YOGAv1: Yet Another Geometry-based Point Cloud Compressor
+#### YOGA: Yet Another Geometry-based Point Cloud Compressor
 
 *Junteng Zhang, Tong Chen, Dandan Ding, and Zhan Ma*
 
@@ -210,12 +211,6 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 27 Oct 2023
 
-#### YOGAv2: A Layered Point Cloud Compressor
-
-*Junteng Zhang, Hao Chen, Junzhe Zhang, Jiangbo Lu, Dandan Ding, and Zhan Ma*
-
-[[Paper](https://3dpcc.github.io/publication/YOGAv2/)] [[website](https://3dpcc.github.io/publication/YOGAv2/)]
-
 #### Unicorn: A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding
 
 *Jianqiang Wang, Ruixiang Xue, Jiaxin Li, Dandan Ding, Lin Yi, Zhan Ma*
@@ -223,6 +218,14 @@ This repository contains a collection of point cloud geometry and attribute comp
 [[Paper Ⅰ](https://ieeexplore.ieee.org/document/10682571)] [[Paper Ⅱ](https://ieeexplore.ieee.org/document/10682566)] [[code](https://github.com/NJUVISION/Unicorn)] [[website](https://njuvision.github.io/Unicorn/)]
 
 12 Sep 2024
+
+#### Neural Compression System for Point Cloud Video Streaming
+
+*Junteng Zhang, Tong Chen, Dandan Ding, and Zhan Ma*
+
+[[Code]([https://dl.acm.org/doi/abs/10.1145/3581783.3613827](https://github.com/3dpcc/Yak))]
+
+21 Nov 2025
 
 ## Quality Assessment
 
@@ -233,4 +236,5 @@ This repository contains a collection of point cloud geometry and attribute comp
 [[Paper](https://ieeexplore.ieee.org/document/11048499)] [[code](https://github.com/3dpcc/PQI)] [[website](https://3dpcc.github.io/publication/PQI/)]
 
 23 Jun 2025
+
 
