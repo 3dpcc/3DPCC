@@ -4,6 +4,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 ## News
 - 2025.11.21 "Neural Compression System for Point Cloud Video Streaming," accepted by TIP.
+- 2025.07.05 "GeoQE: Enhancing Quality of Experience in Point Cloud Streaming," accepted by ACM MM.
 - 2025.06.23 "Revisit Point Cloud Quality Assessment: Current Advances and a Multiscale-Inspired Approach," accepted by TVCG. (https://ieeexplore.ieee.org/document/11048499)
 - 2025.05.01 "Efficient LiDAR Reflectance Compression via Scanning Serialization," accepted by ICML.
 - 2025.03.16 "RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds," accepted by CVPR.
@@ -56,6 +57,8 @@ This repository contains a collection of point cloud geometry and attribute comp
 - **[TPAMI]** A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part I: Geometry
 
 - **[TPAMI]** A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part II: Attribute
+
+- **[ACM MM]** GeoQE: Enhancing Quality of Experience in Point Cloud Streaming
 
 - **[TIP]** Neural Compression System for Point Cloud Video Streaming
 
@@ -219,11 +222,19 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 12 Sep 2024
 
+#### GeoQE: Enhancing Quality of Experience in Point Cloud Streaming
+
+GeoQE: Enhancing Quality of Experience in Point Cloud Streaming
+
+[[Paper](https://dl.acm.org/doi/10.1145/3746027.3754909)]
+
+05 Jul 2025
+
 #### Neural Compression System for Point Cloud Video Streaming
 
 *Junteng Zhang, Tong Chen, Dandan Ding, and Zhan Ma*
 
-[[Code]([https://dl.acm.org/doi/abs/10.1145/3581783.3613827](https://github.com/3dpcc/Yak))]
+[[Paper([https://box.nju.edu.cn/f/b61b954d4ca34c85969f/])]]  [[Code]([https://dl.acm.org/doi/abs/10.1145/3581783.3613827](https://github.com/3dpcc/Yak))]
 
 21 Nov 2025
 
@@ -236,5 +247,6 @@ This repository contains a collection of point cloud geometry and attribute comp
 [[Paper](https://ieeexplore.ieee.org/document/11048499)] [[code](https://github.com/3dpcc/PQI)] [[website](https://3dpcc.github.io/publication/PQI/)]
 
 23 Jun 2025
+
 
 
