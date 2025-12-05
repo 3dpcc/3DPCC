@@ -3,6 +3,7 @@
 This repository contains a collection of point cloud geometry and attribute compression methods developed by NJU and HZNU.
 
 ## News
+- 2025.12.04 "Improving Occupancy Prediction for Multiscale Point Cloud Geometry Compression," accepted by TCSVT.
 - 2025.11.21 "Neural Compression System for Point Cloud Video Streaming," accepted by TIP.
 - 2025.07.05 "GeoQE: Enhancing Quality of Experience in Point Cloud Streaming," accepted by ACM MM.
 - 2025.06.23 "Revisit Point Cloud Quality Assessment: Current Advances and a Multiscale-Inspired Approach," accepted by TVCG. (https://ieeexplore.ieee.org/document/11048499)
@@ -31,6 +32,8 @@ This repository contains a collection of point cloud geometry and attribute comp
 - **[IJCAI]** Encoding Auxiliary Information to Restore Compressed Point Cloud Geometry
 
 - **[CVPR]** RENO: Real-time Neural Compression for 3D LiDAR Point Clouds
+
+- **[TCSVT]** Improving Occupancy Prediction for Multiscale Point Cloud Geometry Compression
 
 - ### Attribute
 
@@ -137,6 +140,14 @@ This repository contains a collection of point cloud geometry and attribute comp
 [[paper](https://arxiv.org/abs/2503.12382)] [[code](https://github.com/NJUVISION/RENO)] 
 
 12 Feb 2025
+
+#### Improving Occupancy Prediction for Multiscale Point Cloud Geometry Compression
+
+*Zehong Li, Jiahao Zhu, Dandan Ding and Zhan Ma*
+
+[Paper]
+
+04 Dec 2025
 
 ### Attribute
 
@@ -247,6 +258,7 @@ GeoQE: Enhancing Quality of Experience in Point Cloud Streaming
 [[Paper](https://ieeexplore.ieee.org/document/11048499)] [[code](https://github.com/3dpcc/PQI)] [[website](https://3dpcc.github.io/publication/PQI/)]
 
 23 Jun 2025
+
 
 
 
