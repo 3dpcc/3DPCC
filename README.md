@@ -3,6 +3,7 @@
 This repository contains a collection of point cloud geometry and attribute compression methods developed by NJU and HZNU.
 
 ## News
+- 2026.04.30 "PACE: Post-Causal Entropy Modeling for Learned LiDAR Point Cloud Compression," accepted by ICML (https://icml.cc/virtual/2026/poster/61275).
 - 2025.12.04 "Improving Occupancy Prediction for Multiscale Point Cloud Geometry Compression," accepted by TCSVT.
 - 2025.11.21 "Neural Compression System for Point Cloud Video Streaming," accepted by TIP.
 - 2025.07.05 "GeoQE: Enhancing Quality of Experience in Point Cloud Streaming," accepted by ACM MM.
@@ -34,6 +35,8 @@ This repository contains a collection of point cloud geometry and attribute comp
 - **[CVPR]** RENO: Real-time Neural Compression for 3D LiDAR Point Clouds
 
 - **[TCSVT]** Improving Occupancy Prediction for Multiscale Point Cloud Geometry Compression
+
+- **[ICML]** PACE: Post-Causal Entropy Modeling for Learned LiDAR Point Cloud Compression
 
 - ### Attribute
 
@@ -137,7 +140,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 *Kang You, Tong Chen, Dandan Ding, M. Salman Asif, Zhan Ma*
 
-[[paper](https://arxiv.org/abs/2503.12382)] [[code](https://github.com/NJUVISION/RENO)] 
+[[Paper](https://arxiv.org/abs/2503.12382)] [[code](https://github.com/NJUVISION/RENO)] 
 
 12 Feb 2025
 
@@ -145,9 +148,17 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 *Zehong Li, Jiahao Zhu, Dandan Ding and Zhan Ma*
 
-[Paper]
+[[Paper](https://ieeexplore.ieee.org/document/11289509)]
 
 04 Dec 2025
+
+#### PACE: Post-Causal Entropy Modeling for Learned LiDAR Point Cloud Compression
+
+*Jiahao Zhu, Kang You, Dandan Ding and Zhan Ma*
+
+[[Paper](https://icml.cc/virtual/2026/poster/61275)]
+
+30 Apr 2026
 
 ### Attribute
 
