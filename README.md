@@ -3,6 +3,10 @@
 This repository contains a collection of point cloud geometry and attribute compression methods developed by NJU and HZNU.
 
 ## News
+- 2026.07.21 "Gameleon: Gaussianizing Point Clouds for On-Demand 4D Performance," accepted by SIGGRAPH Asia
+(https://gameleon2026.github.io/anon-demo/).
+- 2026.07.18 "EDRIC: Embracing 1D Autoencoder for Real-Time Lossy LiDAR Reflectance Compression," accepted by TIP.
+- 2026.06.18 "BitRIC: Efficient Neural Compression of LiDAR Range Images via Hierarchical Bitplanes," accepted by ECCV.
 - 2026.04.30 "PACE: Post-Causal Entropy Modeling for Learned LiDAR Point Cloud Compression," accepted by ICML (https://icml.cc/virtual/2026/poster/61275).
 - 2025.12.04 "Improving Occupancy Prediction for Multiscale Point Cloud Geometry Compression," accepted by TCSVT.
 - 2025.11.21 "Neural Compression System for Point Cloud Video Streaming," accepted by TIP.
@@ -38,6 +42,10 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 - **[ICML]** PACE: Post-Causal Entropy Modeling for Learned LiDAR Point Cloud Compression
 
+- **[ECCV]** BitRIC: Efficient Neural Compression of LiDAR Range Images via Hierarchical Bitplanes
+
+- **[SIGGRAPH Asia]** Gameleon: Gaussianizing Point Clouds for On-Demand 4D Performance
+
 - ### Attribute
 
 - **[MIPR]** SparsePCAC: Sparse Tensor-based Point Cloud Attribute Compression
@@ -51,6 +59,8 @@ This repository contains a collection of point cloud geometry and attribute comp
 - **[TVCG]** Learning to Restore Compressed Point Cloud Attribute: A Fully Data-Driven Approach and A Rules-Unrolling-Based Optimization
 
 - **[ICML]** Efficient LiDAR Reflectance Compression via Scanning Serialization
+
+- **[TIP]** EDRIC: Embracing 1D Autoencoder for Real-Time Lossy LiDAR Reflectance Compression
 
 - ### Integrated Solution
 
@@ -160,6 +170,20 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 30 Apr 2026
 
+#### BitRIC: Efficient Neural Compression of LiDAR Range Images via Hierarchical Bitplanes
+
+*Kang You, Tong Chen, Dandan Ding, M. Salman Asif, Zhan Ma*
+
+18 June 2026
+
+#### Gameleon: Gaussianizing Point Clouds for On-Demand 4D Performance
+
+*Zehong Li, Jinyang Li, Yueyu Hu, Dandan Ding, Zhan Ma*
+
+[[Website](https://gameleon2026.github.io/anon-demo/)]
+
+21 July 2026
+
 ### Attribute
 
 #### SparsePCAC: Sparse Tensor-based Point Cloud Attribute Compression
@@ -209,6 +233,12 @@ This repository contains a collection of point cloud geometry and attribute comp
 [[code](https://github.com/3dpcc/SerLiC)] [[website](https://3dpcc.github.io/publication/SerLiC)]
 
 01 May 2025
+
+#### EDRIC: Embracing 1D Autoencoder for Real-time Lossy LiDAR  Reflectance Compression
+
+*Jiahao Zhu, Kang You, Dandan Ding, and Zhan Ma*
+
+18 July 2026
 
 ## Integrated Solution
 
