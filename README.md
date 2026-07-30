@@ -44,8 +44,6 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 - **[ECCV]** BitRIC: Efficient Neural Compression of LiDAR Range Images via Hierarchical Bitplanes
 
-- **[SIGGRAPH Asia]** Gameleon: Gaussianizing Point Clouds for On-Demand 4D Performance
-
 - ### Attribute
 
 - **[MIPR]** SparsePCAC: Sparse Tensor-based Point Cloud Attribute Compression
@@ -77,6 +75,8 @@ This repository contains a collection of point cloud geometry and attribute comp
 - **[ACM MM]** GeoQE: Enhancing Quality of Experience in Point Cloud Streaming
 
 - **[TIP]** Neural Compression System for Point Cloud Video Streaming
+
+- **[SIGGRAPH Asia]** Gameleon: Gaussianizing Point Clouds for On-Demand 4D Performance
 
 - ### Quality Assessment
 
@@ -175,14 +175,6 @@ This repository contains a collection of point cloud geometry and attribute comp
 *Kang You, Tong Chen, Dandan Ding, M. Salman Asif, Zhan Ma*
 
 18 June 2026
-
-#### Gameleon: Gaussianizing Point Clouds for On-Demand 4D Performance
-
-*Zehong Li, Jinyang Li, Yueyu Hu, Dandan Ding, Zhan Ma*
-
-[[Website](https://gameleon2026.github.io/anon-demo/)]
-
-21 July 2026
 
 ### Attribute
 
@@ -289,6 +281,14 @@ GeoQE: Enhancing Quality of Experience in Point Cloud Streaming
 [[Paper](https://box.nju.edu.cn/f/b61b954d4ca34c85969f/)]  [[code](https://github.com/3dpcc/Yak)]
 
 21 Nov 2025
+
+#### Gameleon: Gaussianizing Point Clouds for On-Demand 4D Performance
+
+*Zehong Li, Jinyang Li, Yueyu Hu, Dandan Ding, Zhan Ma*
+
+[[Website](https://gameleon2026.github.io/anon-demo/)]
+
+21 July 2026
 
 ## Quality Assessment
 
