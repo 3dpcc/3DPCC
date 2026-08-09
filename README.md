@@ -3,7 +3,7 @@
 This repository contains a collection of point cloud geometry and attribute compression methods developed by NJU and HZNU.
 
 ## News
-- 2026.08.08 "MuDAR: Multi-dimensional Context Mining for LiDAR Point Cloud Compression," accepted by TETCI.
+- 2026.08.08 "MuDAR: Multi-dimensional Context Mining for LiDAR Point Cloud Compression," accepted by TETCI (https://3dpcc.github.io/publication/MuDAR/).
 - 2026.07.21 "Gameleon: Gaussianizing Point Clouds for On-Demand 4D Performance," accepted by SIGGRAPH Asia
 (https://gameleon2026.github.io/anon-demo/).
 - 2026.07.18 "EDRIC: Embracing 1D Autoencoder for Real-Time Lossy LiDAR Reflectance Compression," accepted by TIP.
