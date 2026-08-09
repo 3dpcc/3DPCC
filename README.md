@@ -3,6 +3,7 @@
 This repository contains a collection of point cloud geometry and attribute compression methods developed by NJU and HZNU.
 
 ## News
+- 2026.08.08 "MuDAR: Multi-dimensional Context Mining for LiDAR Point Cloud Compression," accepted by TETCI (https://3dpcc.github.io/publication/MuDAR/).
 - 2026.07.21 "Gameleon: Gaussianizing Point Clouds for On-Demand 4D Performance," accepted by SIGGRAPH Asia
 (https://gameleon2026.github.io/anon-demo/).
 - 2026.07.18 "EDRIC: Embracing 1D Autoencoder for Real-Time Lossy LiDAR Reflectance Compression," accepted by TIP.
@@ -43,6 +44,8 @@ This repository contains a collection of point cloud geometry and attribute comp
 - **[ICML]** PACE: Post-Causal Entropy Modeling for Learned LiDAR Point Cloud Compression
 
 - **[ECCV]** BitRIC: Efficient Neural Compression of LiDAR Range Images via Hierarchical Bitplanes
+
+- **[TETCI]** MuDAR: Multi-dimensional Context Mining for LiDAR Point Cloud Compression
 
 - ### Attribute
 
@@ -174,7 +177,13 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 *Kang You, Tong Chen, Dandan Ding, M. Salman Asif, Zhan Ma*
 
-18 June 2026
+18 Jun 2026
+
+#### MuDAR: Multi-dimensional Context Mining for LiDAR Point Cloud Compression
+
+*Jiahao Zhu, Gexin Liu, Kang You, Dandan Ding, Zhan Ma*
+
+08 Aug 2026
 
 ### Attribute
 
@@ -230,7 +239,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 *Jiahao Zhu, Kang You, Dandan Ding, and Zhan Ma*
 
-18 July 2026
+18 Jul 2026
 
 ## Integrated Solution
 
@@ -288,7 +297,7 @@ GeoQE: Enhancing Quality of Experience in Point Cloud Streaming
 
 [[Website](https://gameleon2026.github.io/anon-demo/)]
 
-21 July 2026
+21 Jul 2026
 
 ## Quality Assessment
 
