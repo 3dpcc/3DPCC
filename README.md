@@ -169,7 +169,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 *Jiahao Zhu, Kang You, Dandan Ding and Zhan Ma*
 
-[[Paper](https://icml.cc/virtual/2026/poster/61275)]
+[[Paper](https://icml.cc/virtual/2026/poster/61275)] [[code](https://github.com/3dpcc/PACE)]
 
 30 Apr 2026
 
@@ -183,7 +183,7 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 *Jiahao Zhu, Gexin Liu, Kang You, Dandan Ding, Zhan Ma*
 
-[[Website](https://3dpcc.github.io/publication/MuDAR/)] 
+[[Paper](https://ieeexplore.ieee.org/document/11711545)] [[Website](https://3dpcc.github.io/publication/MuDAR/)]
 
 08 Aug 2026
 
@@ -233,13 +233,15 @@ This repository contains a collection of point cloud geometry and attribute comp
 
 *Jiahao Zhu, Kang You, Dandan Ding, and Zhan Ma*
 
-[[code](https://github.com/3dpcc/SerLiC)] [[website](https://3dpcc.github.io/publication/SerLiC)]
+[[Paper](https://arxiv.org/abs/2505.09433)] [[code](https://github.com/3dpcc/SerLiC)] [[website](https://3dpcc.github.io/publication/SerLiC)]
 
 01 May 2025
 
-#### EDRIC: Embracing 1D Autoencoder for Real-time Lossy LiDAR  Reflectance Compression
+#### EDRIC: Embracing 1D Autoencoder for Real-time Lossy LiDAR Reflectance Compression
 
 *Jiahao Zhu, Kang You, Dandan Ding, and Zhan Ma*
+
+[[Paper](https://ieeexplore.ieee.org/document/11644864)] [[code](https://github.com/3dpcc/EDRIC)]
 
 18 Jul 2026
 
